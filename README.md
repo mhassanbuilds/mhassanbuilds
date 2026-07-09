@@ -161,50 +161,11 @@ Git • GitHub • VS Code • Jupyter Notebook • Docker
 
 ---
 
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-
-| Project | Description |
-|:--------:|:-----------|
-| 🤖 **Machine Learning Projects** | Practical ML models, predictive analytics, and AI applications. |
-| 📊 **Data Analytics Projects** | Excel, SQL, Power BI, dashboards, and business insights. |
-| 🐍 **Python Projects** | Automation, scripting, APIs, and real-world applications. |
-| 💻 **Software Development** | Desktop, web, and intelligent software solutions. |
-| 🎓 **University Projects** | Academic projects, research, and coursework. |
-| 🚀 **Open Source** | Future contributions and collaborative development. |
-
-</div>
-
----
-
 <h2 align="center">Currently Learning</h2>
 
 <div align="center">
 
 Advanced Machine Learning • Deep Learning • TensorFlow • Docker • Cloud Computing • Git & GitHub Best Practices
-
-</div>
-
----
-
-<h2 align="center">2026 Goals</h2>
-
-<div align="center">
-
-✅ Build a strong GitHub portfolio
-
-⬜ Upload 15+ quality projects
-
-⬜ Contribute to Open Source
-
-⬜ Master Machine Learning
-
-⬜ Learn Cloud Technologies
-
-⬜ Build AI-powered Applications
-
-⬜ Launch Professional Portfolio Website
 
 </div>
 
