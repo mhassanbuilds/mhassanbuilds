@@ -65,10 +65,18 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ## Technologies & Tools
 
-### Languages
+<h3 align="center">Languages</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql" height="55"/>
+
+</p>
+
+<p align="center">
+<b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>MySQL</b>
+</p>
 
 ---
 
