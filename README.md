@@ -15,7 +15,7 @@
 
 Driven by curiosity and continuous learning, I'm exploring Artificial Intelligence, Machine Learning, Data Science, Data Analytics, Software Development, and Project Management while building practical projects, strengthening my technical foundation, and turning ideas into impactful digital solutions.
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Profile
 
