@@ -65,84 +65,9 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <h2 align="center">Technologies & Tools</h2>
 
-<h3 align="center">Languages</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  <img src="tech-stack.png" width="95%" alt="Technologies & Tools"/>
 </p>
-
-<p align="center">
-  <strong>Python</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>MySQL</strong>
-</p>
-
----
-
-<h3 align="center">Data Science & AI</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="55" height="55"/>
-</p>
-<p align="center">
-  <sub><b>Pandas</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>NumPy</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Scikit-learn</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Matplotlib</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>TensorFlow</b></sub>
-</p>
-
----
-
-### Analytics
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
-
-### Development & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-<h2 align="center">GitHub Dashboard</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhassanbuilds&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanbuilds&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="72%" src="https://streak-stats.demolab.com?user=mhassanbuilds&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhassanbuilds&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
 
 ---
 
