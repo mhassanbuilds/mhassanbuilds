@@ -81,3 +81,24 @@ Excel • Power BI • Google Colab
 </div>
 
 ---
+
+<h2 align="center">GitHub Dashboard</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhassanbuilds&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanbuilds&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanbuilds&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhassanbuilds&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhassanbuilds&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
