@@ -69,13 +69,19 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
 </p>
 
 <p align="center">
-<b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>MySQL</b>
+
+Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+MySQL
+
 </p>
 
 ---
