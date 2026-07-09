@@ -67,21 +67,19 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <h3 align="center">Languages</h3>
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
+
+<span style="display:inline-block; text-align:center; margin-right:30px;">
 <img src="https://skillicons.dev/icons?i=python" height="55"/><br>
 Python
-</td>
+</span>
 
-<td width="35"></td>
-
-<td align="center">
+<span style="display:inline-block; text-align:center;">
 <img src="https://skillicons.dev/icons?i=mysql" height="55"/><br>
 MySQL
-</td>
-</tr>
-</table>
+</span>
+
+</p>
 
 ---
 
