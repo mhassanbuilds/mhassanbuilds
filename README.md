@@ -96,15 +96,11 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 </p>
 
 <p align="center">
-  <strong>Pandas</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>NumPy</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Scikit-learn</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Matplotlib</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>TensorFlow</strong>
+<strong>Pandas</strong>&nbsp;&nbsp;&nbsp;
+<strong>NumPy</strong>&nbsp;&nbsp;
+<strong>Scikit-learn</strong>&nbsp;
+<strong>Matplotlib</strong>&nbsp;
+<strong>TensorFlow</strong>
 </p>
 
 ---
