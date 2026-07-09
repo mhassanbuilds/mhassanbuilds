@@ -62,75 +62,21 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
-<h2 align="center">Technologies & Tools</h2>
+## Technologies & Tools
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-<b>Languages</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,tensorflow,git,github,vscode,jupyter,docker,aws" />
 
 <br>
 
-Python • MySQL
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<b>Data Science & AI</b>
+**Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • Git • GitHub • VS Code • Jupyter • Docker • AWS**
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+**Analytics**
 
-<br>
-
-TensorFlow
-
-<br><br>
-
-Pandas • NumPy • Scikit-learn • Matplotlib
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<b>Analytics</b>
-
-<br><br>
-
-Excel • Power BI
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<b>Development & Tools</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-
-<br>
-
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
-
-</td>
-</tr>
-</table>
+Excel • Power BI • Google Colab
 
 </div>
 
