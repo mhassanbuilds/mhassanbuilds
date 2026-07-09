@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="Muhammad Hassan Banner" width="100%"/>
+<img src="banner.png" width="100%" alt="Muhammad Hassan Banner"/>
 
 </div>
-
 
 <div align="center">
 
@@ -11,47 +10,85 @@
 
 </div>
 
-# Muhammad Hassan
+<h1 align="center">Muhammad Hassan</h1>
 
-Driven by curiosity and continuous learning, I'm exploring Artificial Intelligence, Machine Learning, Data Science, Data Analytics, Software Development, and Project Management while building practical projects, strengthening my technical foundation, and turning ideas into impactful digital solutions.
-
----
-
-## Profile
-
-| Category | Details |
-|:---------|:--------|
-| Education | Pursuing a Bachelor's Degree in Data Science |
-| Interests | Artificial Intelligence • Machine Learning • Data Science • Data Analytics |
-| Development | Software Development |
-| Also Exploring | Project Management |
-| Current Focus | Building practical projects, expanding technical expertise, and solving real-world problems through continuous learning |
-
----
-
-## Technologies & Tools
+<p align="center">
+Driven by curiosity and continuous learning, I'm exploring <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Data Science</strong>, <strong>Data Analytics</strong>, <strong>Software Development</strong>, and <strong>Project Management</strong> while building practical projects, strengthening my technical foundation, and turning ideas into impactful digital solutions.
+</p>
 
 <p align="center">
 
-━━━━━━━━━━ Languages ━━━━━━━━━━
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">Profile</h2>
+
+<table align="center">
+<tr>
+<td><strong>Education</strong></td>
+<td>Pursuing a Bachelor's Degree in Data Science</td>
+</tr>
+
+<tr>
+<td><strong>Interests</strong></td>
+<td>Artificial Intelligence • Machine Learning • Data Science • Data Analytics</td>
+</tr>
+
+<tr>
+<td><strong>Development</strong></td>
+<td>Software Development</td>
+</tr>
+
+<tr>
+<td><strong>Also Exploring</strong></td>
+<td>Project Management</td>
+</tr>
+
+<tr>
+<td><strong>Current Focus</strong></td>
+<td>Building practical projects, expanding technical expertise, and solving real-world problems through continuous learning.</td>
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
 <br><br>
 
-━━━━━━━━ Data Science & AI ━━━━━━━━
+**Data Science & AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<br>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib" />
 
 <br><br>
 
-━━━━━━━━━━ Analytics ━━━━━━━━━━
+**Analytics**
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" />
 
 <br><br>
 
-━━━━━━ Development & Tools ━━━━━━
+**Development & Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
@@ -59,6 +96,6 @@ Driven by curiosity and continuous learning, I'm exploring Artificial Intelligen
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
 
-</p>
+</div>
 
-
+---
