@@ -15,11 +15,10 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-hassan753" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-hassan753">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sadiqhassan753@gmail.com">
+  <a href="mailto:sadiqhassan753@gmail.com" style="margin-left:8px;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="38" alt="Email"/>
   </a>
 </p>
