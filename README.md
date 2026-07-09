@@ -63,8 +63,6 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
-<h2 align="center">Technologies & Tools</h2>
-
 <p align="center">
   <img src="tech-stack.png" width="95%" alt="Technologies & Tools"/>
 </p>
