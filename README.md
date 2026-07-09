@@ -85,20 +85,20 @@ Excel • Power BI • Google Colab
 <h2 align="center">GitHub Dashboard</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhassanbuilds&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanbuilds&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mhassanbuilds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanbuilds&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanbuilds&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mhassanbuilds&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhassanbuilds&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhassanbuilds&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhassanbuilds&theme=flat&no-frame=true&row=1&column=6" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mhassanbuilds&theme=tokyonight&no-frame=true&no-bg=true&row=1" />
+</p>s
 
 ---
