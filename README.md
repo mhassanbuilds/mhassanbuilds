@@ -84,7 +84,15 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 <h3 align="center">Data Science & AI</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib,tensorflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" height="55"/>
 </p>
 
 <p align="center">
