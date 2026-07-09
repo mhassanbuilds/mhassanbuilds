@@ -14,14 +14,16 @@
 Driven by curiosity and continuous learning, I'm exploring <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Data Science</strong>, <strong>Data Analytics</strong>, <strong>Software Development</strong>, and <strong>Project Management</strong> while building practical projects, strengthening my technical foundation, and turning ideas into impactful digital solutions.
 </p>
 
-<p>
+<p align="center">
 
-<a href="https://linkedin.com/in/muhammad-hassan753">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/muhammad-hassan753" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:sadiqhassan753@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email"/>
 </a>
 
 </p>
@@ -166,22 +168,6 @@ Git • GitHub • VS Code • Jupyter Notebook • Docker
 <div align="center">
 
 Advanced Machine Learning • Deep Learning • TensorFlow • Docker • Cloud Computing • Git & GitHub Best Practices
-
-</div>
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/muhammad-hassan753">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sadiqhassan753@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
 
