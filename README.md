@@ -62,39 +62,75 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Technologies & Tools</h2>
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<b>Languages</b>
 
 <br><br>
 
-**Data Science & AI**
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br>
+
+Python • MySQL
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>Data Science & AI</b>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 
 <br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib" />
+TensorFlow
 
 <br><br>
 
-**Analytics**
+Pandas • NumPy • Scikit-learn • Matplotlib
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>Analytics</b>
 
 <br><br>
 
-**Development & Tools**
+Excel • Power BI
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>Development & Tools</b>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 <br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+
+</td>
+</tr>
+</table>
 
 </div>
 
