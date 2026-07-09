@@ -63,25 +63,25 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
-## Technologies & Tools
+<h2 align="center">Technologies & Tools</h2>
 
 <h3 align="center">Languages</h3>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" height="55"/><br>
+Python
+</td>
 
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-&nbsp;
+<td width="35"></td>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-</p>
-
-<p align="center">
-
-Python &nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/><br>
 MySQL
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
