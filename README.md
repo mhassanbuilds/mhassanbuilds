@@ -137,11 +137,15 @@ Advanced Machine Learning • Deep Learning • TensorFlow • Docker • Cloud 
 
 ---
 
-<h2 align="center">Profile Views</h2>
+<h2 align="center">Profile Statistics</h2>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mhassanbuilds&label=Profile%20Views&color=f97316&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mhassanbuilds&label=Profile%20Views&color=f97316&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/mhassanbuilds?label=Followers&style=for-the-badge&color=2563EB" />
+
+<img src="https://img.shields.io/github/stars/mhassanbuilds?affiliations=OWNER&style=for-the-badge&color=7C3AED&label=Stars" />
 
 </div>
 
