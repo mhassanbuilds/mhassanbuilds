@@ -63,71 +63,41 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
-<h2 align="center">Technologies & Tools</h2>
+## Technologies & Tools
 
-<div align="center">
+### Languages
 
-<table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<tr>
+---
 
-<td align="center" width="300">
+### Data Science & AI
 
-### 💻 Languages
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+---
 
-<br>
+### Analytics
 
-Python • MySQL
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-</td>
+---
 
-<td align="center" width="300">
+### Development & Tools
 
-### 🤖 Data Science & AI
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib,tensorflow" />
-
-<br>
-
-Pandas • NumPy • Scikit-learn • Matplotlib • TensorFlow
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 📊 Analytics
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,colab" />
-
-<br>
-
-Excel • Power BI • Google Colab
-
-</td>
-
-<td align="center">
-
-### ⚙️ Development & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,aws" />
-
-<br>
-
-Git • GitHub • VS Code • Jupyter • Docker • AWS
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
