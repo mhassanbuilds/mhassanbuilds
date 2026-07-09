@@ -79,16 +79,6 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
-<h2 align="center">Currently Learning</h2>
-
-<div align="center">
-
-Advanced Machine Learning • Deep Learning • TensorFlow • Docker • Cloud Computing • Git & GitHub Best Practices
-
-</div>
-
----
-
 <h2 align="center">Profile Statistics</h2>
 
 <div align="center">
