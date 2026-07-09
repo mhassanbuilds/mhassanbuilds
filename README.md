@@ -42,17 +42,19 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <h2 align="center">Professional Experience</h2>
 
-<p align="center">
+<div align="center">
 
-<b>Solutions Boat</b><br>
-Software Trainer
+### Solutions Boat
 
-<br><br>
+**Software Trainer**
 
-<b>Elevvo Pathways</b><br>
-Data Analytics Intern
+<br>
 
-</p>
+### Elevvo Pathways
+
+**Data Analytics Intern**
+
+</div>
 
 ---
 
