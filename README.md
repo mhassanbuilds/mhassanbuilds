@@ -15,17 +15,13 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 </p>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/muhammad-hassan753" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:sadiqhassan753@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email"/>
-</a>
-
+  <a href="https://linkedin.com/in/muhammad-hassan753" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sadiqhassan753@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="38" alt="Email"/>
+  </a>
 </p>
 
 </div>
