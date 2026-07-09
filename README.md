@@ -18,63 +18,34 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
   <a href="https://www.linkedin.com/in/muhammad-hassan753">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" alt="LinkedIn"/>
   </a>
-<a href="mailto:sadiqhassan753@gmail.com?subject=Hello%20Muhammad%20Hassan">
+<a href="mailto:sadiqhassan753@gmail.com?subject=GitHub%20Profile%20Inquiry">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="38" alt="Email"/>
 </a>
 </p>
+
+---
+
+</div><h2 align="center">Profile</h2>
+
+<div align="center">
+
+| **Education** | Pursuing a Bachelor's Degree in Data Science |
+|:--------------|:--------------------------------------------|
+| **Interests** | Artificial Intelligence • Machine Learning • Data Science • Data Analytics |
+| **Development** | Software Development |
+| **Also Exploring** | Project Management |
+| **Current Focus** | Building practical projects, expanding technical expertise, and solving real-world problems. |
 
 </div>
 
 ---
 
-<h2 align="center">Profile</h2>
+<h2 align="center">Professional Experience</h2>
 
-<table align="center">
-
-<tr>
-<td><strong>Education</strong></td>
-<td>Pursuing a Bachelor's Degree in Data Science</td>
-</tr>
-
-<tr>
-<td><strong>Interests</strong></td>
-<td>Artificial Intelligence • Machine Learning • Data Science • Data Analytics</td>
-</tr>
-
-<tr>
-<td><strong>Development</strong></td>
-<td>Software Development</td>
-</tr>
-
-<tr>
-<td><strong>Also Exploring</strong></td>
-<td>Project Management</td>
-</tr>
-
-<tr>
-<td><strong>Current Focus</strong></td>
-<td>Building practical projects, expanding technical expertise, and solving real-world problems through continuous learning.</td>
-</tr>
-
-</table>
-
----
-
-<h2 align="center">Experience</h2>
-
-<table align="center">
-
-<tr>
-<td><strong>Software Trainer</strong></td>
-<td>Solutions Boat</td>
-</tr>
-
-<tr>
-<td><strong>Data Analytics Intern</strong></td>
-<td>Elevvo Pathways</td>
-</tr>
-
-</table>
+| Organization | Role |
+|:------------|:-----|
+| **Solutions Boat** | Software Trainer |
+| **Elevvo Pathways** | Data Analytics Intern |
 
 ---
 
@@ -82,39 +53,23 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,git,github,vscode,jupyter,docker,aws" />
+### Languages
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
-<b>Programming Languages</b>
+### Data Science & AI
 
-<br>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
-Python • SQL
+Pandas • NumPy • Scikit-learn • Matplotlib
 
-<br><br>
-
-<b>Data Science & AI</b>
-
-<br>
-
-Pandas • NumPy • Scikit-learn • Matplotlib • TensorFlow
-
-<br><br>
-
-<b>Analytics</b>
-
-<br>
+### Analytics
 
 Excel • Power BI • Google Colab
 
-<br><br>
+### Development & Tools
 
-<b>Development & Tools</b>
-
-<br>
-
-Git • GitHub • VS Code • Jupyter Notebook • Docker
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,aws" />
 
 </div>
 
@@ -182,17 +137,20 @@ Advanced Machine Learning • Deep Learning • TensorFlow • Docker • Cloud 
 
 <div align="center">
 
-<p><i>Coming Soon...</i></p>
-
-<!--
-After creating the Snake GitHub Action,
-replace this section with:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhassanbuilds/mhassanbuilds/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mhassanbuilds/mhassanbuilds/output/github-contribution-grid-snake.svg">
-</picture>
-
--->
+<i>Snake animation will appear here once GitHub Actions are configured.</i>
 
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mhassanbuilds/mhassanbuilds/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mhassanbuilds/mhassanbuilds/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/mhassanbuilds/mhassanbuilds/output/github-contribution-grid-snake.svg">
+</picture>
+
+
