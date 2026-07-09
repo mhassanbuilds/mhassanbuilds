@@ -69,6 +69,34 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
+<h2 align="center">GitHub Dashboard</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhassanbuilds&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanbuilds&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="72%" src="https://streak-stats.demolab.com?user=mhassanbuilds&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhassanbuilds&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
 <h2 align="center">GitHub Achievements</h2>
 
 <div align="center">
