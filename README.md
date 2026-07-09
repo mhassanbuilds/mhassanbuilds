@@ -81,13 +81,23 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 ---
 
-### Data Science & AI
+<h3 align="center">Data Science & AI</h3>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib,tensorflow" />
+</p>
+
+<p align="center">
+  <strong>Pandas</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>NumPy</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Scikit-learn</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Matplotlib</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>TensorFlow</strong>
+</p>
 
 ---
 
