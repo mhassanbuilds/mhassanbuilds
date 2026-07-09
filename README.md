@@ -26,3 +26,39 @@ Driven by curiosity and continuous learning, I'm exploring Artificial Intelligen
 | Development | Software Development |
 | Also Exploring | Project Management |
 | Current Focus | Building practical projects, expanding technical expertise, and solving real-world problems through continuous learning |
+
+---
+
+## Technologies & Tools
+
+<p align="center">
+
+━━━━━━━━━━ Languages ━━━━━━━━━━
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br><br>
+
+━━━━━━━━ Data Science & AI ━━━━━━━━
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib" />
+
+<br><br>
+
+━━━━━━━━━━ Analytics ━━━━━━━━━━
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" />
+
+<br><br>
+
+━━━━━━ Development & Tools ━━━━━━
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+<br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
+
+</p>
+
+
