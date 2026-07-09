@@ -67,23 +67,65 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <div align="center">
 
-### Languages
+<table>
+
+<tr>
+
+<td align="center" width="300">
+
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
-### Data Science & AI
+<br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+Python • MySQL
 
-Pandas • NumPy • Scikit-learn • Matplotlib
+</td>
 
-### Analytics
+<td align="center" width="300">
+
+### 🤖 Data Science & AI
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib,tensorflow" />
+
+<br>
+
+Pandas • NumPy • Scikit-learn • Matplotlib • TensorFlow
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 📊 Analytics
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,colab" />
+
+<br>
 
 Excel • Power BI • Google Colab
 
-### Development & Tools
+</td>
+
+<td align="center">
+
+### ⚙️ Development & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,aws" />
+
+<br>
+
+Git • GitHub • VS Code • Jupyter • Docker • AWS
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
