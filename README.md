@@ -71,7 +71,7 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
@@ -79,7 +79,7 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <p align="center">
 
-Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Python &nbsp;&nbsp;
 MySQL
 
 </p>
