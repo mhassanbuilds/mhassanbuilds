@@ -44,15 +44,20 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <div align="center">
 
-### Solutions Boat
-
-**Software Trainer**
-
-<br>
-
-### Elevvo Pathways
-
-**Data Analytics Intern**
+<table>
+  <tr>
+    <th>Organization</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>Solutions Boat</td>
+    <td>Software Trainer</td>
+  </tr>
+  <tr>
+    <td>Elevvo Pathways</td>
+    <td>Data Analytics Intern</td>
+  </tr>
+</table>
 
 </div>
 
