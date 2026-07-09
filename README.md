@@ -71,8 +71,6 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-&nbsp;
-
 <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
 </p>
