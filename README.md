@@ -68,17 +68,15 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 <h3 align="center">Languages</h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</p>
 
-<span style="display:inline-block; text-align:center; margin-right:30px;">
-<img src="https://skillicons.dev/icons?i=python" height="55"/><br>
-Python
-</span>
-;&nbsp;
-<span style="display:inline-block; text-align:center;">
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/><br>
-MySQL
-</span>
-
+<p align="center">
+  <strong>Python</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>MySQL</strong>
 </p>
 
 ---
