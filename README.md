@@ -42,10 +42,17 @@ Driven by curiosity and continuous learning, I'm exploring <strong>Artificial In
 
 <h2 align="center">Professional Experience</h2>
 
-| Organization | Role |
-|:------------|:-----|
-| **Solutions Boat** | Software Trainer |
-| **Elevvo Pathways** | Data Analytics Intern |
+<p align="center">
+
+<b>Solutions Boat</b><br>
+Software Trainer
+
+<br><br>
+
+<b>Elevvo Pathways</b><br>
+Data Analytics Intern
+
+</p>
 
 ---
 
